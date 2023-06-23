@@ -1,1 +1,2 @@
-This is a sample file  for git tutorial. The sample file is changed
+Vesrion 1.0 
+This is a sample file  for git tutorial. The sample file is changed 
